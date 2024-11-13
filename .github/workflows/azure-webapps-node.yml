@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV Cá Nhân</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Võ Trần Thanh Trúc</h1>
+    <p>Email: tranthanhtrucvo@gmail.com | Số điện thoại: 0396801131</p>
+  </header>
+
+  <section class="summary">
+    <h2>Giới Thiệu Bản Thân</h2>
+    <p><section class="about-me">
+  <h2>Giới Thiệu Bản Thân</h2>
+
+  <!-- Trình độ học vấn -->
+  <div class="education">
+    <h3>Trình Độ Học Vấn</h3>
+    <p>Tôi đã hoàn thành chương trình <strong>Trung học phổ thông</strong> tại trường <strong>Trường THPT An Ninh</strong> vào năm 2024. Các môn thi tốt nghiệp có điểm số như sau:</p>
+    <ul>
+      <li><strong>Toán:</strong> 8.2/10</li>
+      <li><strong>Vật lý:</strong> 8.0/10</li>
+      <li><strong>Hóa học:</strong> 8.25/10</li>
+    </ul>
+    <p>Sau đó, tôi tiếp tục theo học ngành <strong>Sư phạm Tin học</strong> tại <strong> Trường Đại học Sư Phạm Thành Phố Hồ Chí Minh</strong> và hiện đang là sinh viên năm nhất.</p>
+  </div>
+
+
+  <!-- Kinh nghiệm làm việc -->
+  <div class="experience">
+    <h3>Kinh Nghiệm Làm Việc</h3>
+    <p>Hiện tại, tôi đang tiếp tục việc học của mình <strong>Đại học Sư Phạm Thành Phố Hồ Chí Minh</strong> 
+
+  <!-- Mục tiêu nghề nghiệp -->
+  <div class="career-goals">
+    <h3>Mục Tiêu Nghề Nghiệp</h3>
+    <p>Mục tiêu của tôi là trở thành một <strong>Giáo viên giỏi,gương mẫu, không ngừng học hỏi và phát triển bản thân. Tôi mong muốn làm việc trong môi trường sáng tạo, có cơ hội học hỏi và đóng góp cho xã hội .</p>
+  </div>
+</section>
+.</p>
+  </section>
+
+  <section class="experience">
+    <h2>Kinh Nghiệm Làm Việc</h2>
+    <ul>
+      <li><strong>Chức danh: </strongSinh viên thiết kế web | <strong>Trường: </strong>Đại học Sư Phạm Thành Phố Hồ Chí Minh Corp | <strong>Thời gian: </strong>2024 - Nay</li>
+      <li>Mô tả công việc: Phát triển các ứng dụng web sử dụng HTML, CSS, JavaScript...</li>
+    </ul>
+  </section>
+
+  <section class="education">
+    <h2>Kỹ Năng</h2>
+    <ul>
+      <li>HTML, CSS, JavaScript</li>
+      <li>React, Node.js</li>
+      <li>Git, GitHub</li>
+    </ul>
+  </section>
+
+  <section class="projects">
+    <h2>Dự Án</h2>
+    <ul>
+      <li><a href="https://github.com/username/project1"><section class="projects">
+  <h2>Dự Án</h2>
+  <ul>
+    <li>
+      <a href="https://github.com/username/task-manager-app" target="_blank">Ứng dụng Quản Lý Công Việc</a>
+      <p><strong>Mô tả:</strong> Ứng dụng web cho phép người dùng quản lý các công việc hàng ngày, phân loại, và lên lịch làm việc. Người dùng có thể tạo, sửa, và xóa công việc, đồng thời đánh dấu các công việc đã hoàn thành. Ứng dụng sử dụng ReactJS cho frontend và Node.js với Express cho backend.</p>
+      <p><strong>Công nghệ sử dụng:</strong> ReactJS, Node.js, Express, MongoDB, JWT Authentication.</p>
+      <p><strong>Chức năng chính:</strong>
+        <ul>
+          <li>Đăng nhập và đăng ký người dùng với tính năng bảo mật JWT.</li>
+          <li>Tạo, sửa, xóa công việc, và đánh dấu công việc đã hoàn thành.</li>
+          <li>Hiển thị danh sách công việc theo từng ngày, sắp xếp theo mức độ ưu tiên.</li>
+          <li>Chức năng tìm kiếm công việc theo từ khóa.</li>
+        </ul>
+      </p>
+    </li>
+  </ul>
+</section>
+</a></li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Liên hệ với tôi qua email: tranthanhtrucvo@gmail.com</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
